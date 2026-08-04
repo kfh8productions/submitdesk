@@ -1,0 +1,425 @@
+[
+{
+"name": "The Stinging Fly",
+"country": "IE",
+"type": "magazine",
+"cap": null,
+"soft": false,
+"window": "",
+"editor": "",
+"channel": "",
+"url": "twitter.com/stingingfly",
+"unsolicited": "",
+"tags": [
+"pays"
+],
+"note": "Reading: November, May · Free to submit · EUR 300 to 1200 + 1 copy",
+"rank": 299,
+"score": 1.0,
+"verify": true
+},
+{
+"name": "Tower Magazine",
+"country": "IE",
+"type": "magazine",
+"cap": 5000,
+"soft": false,
+"window": "",
+"editor": "",
+"channel": "",
+"url": "twitter.com/read_tower",
+"unsolicited": "",
+"tags": [
+"themed",
+"pays"
+],
+"note": "Free to submit · EUR 20",
+"rank": 307,
+"score": 1.0,
+"verify": true
+},
+{
+"name": "Splonk",
+"country": "IE",
+"type": "magazine",
+"cap": 500,
+"soft": false,
+"window": "",
+"editor": "",
+"channel": "",
+"url": "twitter.com/Splonk1",
+"unsolicited": "",
+"tags": [],
+"note": "Reading: February,  ??? · Free to submit",
+"rank": 404,
+"score": 0.4,
+"verify": true
+},
+{
+"name": "Sonder Magazine",
+"country": "IE",
+"type": "magazine",
+"cap": 2500,
+"soft": false,
+"window": "",
+"editor": "",
+"channel": "",
+"url": "twitter.com/MagazineSonder",
+"unsolicited": "",
+"tags": [
+"themed",
+"pays"
+],
+"note": "Reading: May, ??? · Free to submit · EUR 300 + 1 copy",
+"rank": 547,
+"score": 0.1,
+"verify": true
+},
+{
+"name": "Fish Publishing",
+"country": "IE",
+"type": "magazine",
+"cap": 5000,
+"soft": false,
+"window": {
+"open": 8,
+"close": 11
+},
+"editor": "",
+"channel": "",
+"url": "twitter.com/fishpublishing",
+"unsolicited": "",
+"tags": [
+"pays"
+],
+"note": "EUR 20 · Prizes",
+"rank": 556,
+"score": 0.1,
+"verify": false
+},
+{
+"name": "Banshee",
+"country": "IE",
+"type": "magazine",
+"cap": 5000,
+"soft": false,
+"window": "",
+"editor": "",
+"channel": "",
+"url": "twitter.com/bansheelit",
+"unsolicited": "",
+"tags": [
+"flash",
+"pays"
+],
+"note": "Reading: March, October · Free to submit · Payment + 1 copy",
+"rank": 588,
+"score": 0.0,
+"verify": true
+},
+{
+"name": "gorse",
+"country": "IE",
+"type": "magazine",
+"cap": 1500,
+"soft": false,
+"window": {
+"open": 4,
+"close": 4
+},
+"editor": "",
+"channel": "",
+"url": "twitter.com/gorse_journal",
+"unsolicited": "",
+"tags": [
+"pays"
+],
+"note": "Payment + 1 copy",
+"rank": 605,
+"score": 0.0,
+"verify": false
+},
+{
+"name": "Southword",
+"country": "IE",
+"type": "magazine",
+"cap": 5000,
+"soft": false,
+"window": {
+"open": 2,
+"close": 2
+},
+"editor": "",
+"channel": "",
+"url": "twitter.com/MunLitCentre",
+"unsolicited": "",
+"tags": [
+"pays"
+],
+"note": "Free to submit · EUR 300",
+"rank": 611,
+"score": 0.0,
+"verify": false
+},
+{
+"name": "The Dublin Review",
+"country": "IE",
+"type": "magazine",
+"cap": null,
+"soft": false,
+"window": "rolling",
+"editor": "",
+"channel": "",
+"url": "twitter.com/TheDublinReview",
+"unsolicited": "",
+"tags": [
+"pays"
+],
+"note": "Free to submit · €300 for pieces with a published word count of 2,500 and under, and increases based on word coun",
+"rank": 622,
+"score": 0.0,
+"verify": false
+},
+{
+"name": "Tolka",
+"country": "IE",
+"type": "magazine",
+"cap": 4000,
+"soft": false,
+"window": "",
+"editor": "",
+"channel": "",
+"url": "twitter.com/tolkajournal",
+"unsolicited": "",
+"tags": [
+"cnf",
+"pays"
+],
+"note": "Reading: October to ???, ??? · Free to submit · EUR 500 + one copy",
+"rank": 645,
+"score": 0.0,
+"verify": true
+},
+{
+"name": "Winter Papers",
+"country": "IE",
+"type": "magazine",
+"cap": 5000,
+"soft": false,
+"window": {
+"open": 2,
+"close": 3
+},
+"editor": "",
+"channel": "",
+"url": "twitter.com/WinterPapers",
+"unsolicited": "",
+"tags": [
+"pays"
+],
+"note": "Free to submit · Payment for their work that appears in the anthology",
+"rank": 672,
+"score": 0.0,
+"verify": false
+},
+{
+"name": "The Four Faced Liar",
+"country": "IE",
+"type": "magazine",
+"cap": 4000,
+"soft": false,
+"window": "",
+"editor": "",
+"channel": "",
+"url": "twitter.com/the4facedliar",
+"unsolicited": "",
+"tags": [
+"flash",
+"pays"
+],
+"note": "Reading: May to June, ??? · Free to submit · EUR 200 for short story; EUR 100 for flash",
+"rank": 710,
+"score": 0.0,
+"verify": true
+},
+{
+"name": "Channel",
+"country": "IE",
+"type": "magazine",
+"cap": 6000,
+"soft": false,
+"window": "",
+"editor": "",
+"channel": "",
+"url": "twitter.com/Channel_LitMag",
+"unsolicited": "",
+"tags": [
+"themed",
+"pays"
+],
+"note": "Reading: November to December, June to July · Free to submit · EUR 50 per page (max EUR 150) + one copy",
+"rank": 723,
+"score": 0.0,
+"verify": true
+},
+{
+"name": "The Pig's Back",
+"country": "IE",
+"type": "magazine",
+"cap": 5000,
+"soft": false,
+"window": "",
+"editor": "",
+"channel": "",
+"url": "twitter.com/ThePigsBack1",
+"unsolicited": "",
+"tags": [
+"pays"
+],
+"note": "Reading: July, ??? · Free to submit · EUR 300 + 2 copies",
+"rank": 727,
+"score": 0.0,
+"verify": true
+},
+{
+"name": "The Storms",
+"country": "IE",
+"type": "magazine",
+"cap": null,
+"soft": false,
+"window": {
+"open": 5,
+"close": 8
+},
+"editor": "",
+"channel": "",
+"url": "twitter.com/EatTheStorms",
+"unsolicited": "",
+"tags": [
+"pays"
+],
+"note": "Free to submit · EUR 60 + 1 copy",
+"rank": 748,
+"score": 0.0,
+"verify": true
+},
+{
+"name": "ROPES",
+"country": "IE",
+"type": "magazine",
+"cap": 3000,
+"soft": false,
+"window": {
+"open": 11,
+"close": 12
+},
+"editor": "",
+"channel": "",
+"url": "twitter.com/ropeslitjournal",
+"unsolicited": "",
+"tags": [
+"flash"
+],
+"note": "Free to submit",
+"rank": 796,
+"score": 0.0,
+"verify": false
+},
+{
+"name": "The Ogham Stone",
+"country": "IE",
+"type": "magazine",
+"cap": 2500,
+"soft": false,
+"window": "",
+"editor": "",
+"channel": "",
+"url": "twitter.com/TheOghamStone",
+"unsolicited": "",
+"tags": [
+"themed"
+],
+"note": "Reading: October to November, ??? · Free to submit",
+"rank": 851,
+"score": 0.0,
+"verify": true
+},
+{
+"name": "Púca",
+"country": "IE",
+"type": "magazine",
+"cap": 2500,
+"soft": false,
+"window": "",
+"editor": "",
+"channel": "",
+"url": "twitter.com/MagazinePuca",
+"unsolicited": "",
+"tags": [
+"themed",
+"pays"
+],
+"note": "Reading: April??? to May, October to Nnovember · Free to submit · EUR 10 + 1 copy",
+"rank": 855,
+"score": 0.0,
+"verify": true
+},
+{
+"name": "Crannog magazine",
+"country": "IE",
+"type": "magazine",
+"cap": 2000,
+"soft": false,
+"window": "",
+"editor": "",
+"channel": "",
+"url": "twitter.com/CrannogM",
+"unsolicited": "",
+"tags": [
+"pays"
+],
+"note": "Reading: November, May · Free to submit · EUR 200 + 1 copy",
+"rank": 993,
+"score": 0.0,
+"verify": true
+},
+{
+"name": "Profiles Journal",
+"country": "IE",
+"type": "magazine",
+"cap": 5000,
+"soft": false,
+"window": "",
+"editor": "",
+"channel": "",
+"url": "twitter.com/Profileslit",
+"unsolicited": "",
+"tags": [
+"themed",
+"pays"
+],
+"note": "Reading: ??? to June, ??? · Free to submit · EUR 200",
+"rank": 1006,
+"score": 0.0,
+"verify": true
+},
+{
+"name": "Ragaire Literary Magazine",
+"country": "IE",
+"type": "magazine",
+"cap": 2000,
+"soft": false,
+"window": "",
+"editor": "",
+"channel": "",
+"url": "twitter.com/RagaireMagazine",
+"unsolicited": "",
+"tags": [
+"pays"
+],
+"note": "Reading: ??? to July, ??? · Free to submit · 1 copy",
+"rank": 1052,
+"score": 0.0,
+"verify": true
+}
+]

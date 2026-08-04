@@ -1,0 +1,230 @@
+[
+{
+"name": "HEAT",
+"country": "AU",
+"type": "magazine",
+"cap": null,
+"soft": false,
+"window": "rolling",
+"editor": "",
+"channel": "",
+"url": "twitter.com/HEAT_journal",
+"unsolicited": "",
+"tags": [],
+"note": "Free to submit",
+"rank": 327,
+"score": 0.9,
+"verify": true
+},
+{
+"name": "Meniscus",
+"country": "AU",
+"type": "magazine",
+"cap": 3000,
+"soft": false,
+"window": "",
+"editor": "",
+"channel": "",
+"url": "twitter.com/meniscusAU",
+"unsolicited": "",
+"tags": [
+"flash"
+],
+"note": "Reading: November to January, June to August · Free to submit",
+"rank": 422,
+"score": 0.3,
+"verify": true
+},
+{
+"name": "Tint Journal",
+"country": "AU",
+"type": "magazine",
+"cap": 4000,
+"soft": false,
+"window": "",
+"editor": "",
+"channel": "",
+"url": "twitter.com/tintjournal",
+"unsolicited": "",
+"tags": [
+"for english as secon",
+"flash"
+],
+"note": "Reading: October to November, April to May · Free to submit",
+"rank": 506,
+"score": 0.1,
+"verify": true
+},
+{
+"name": "Griffith Review",
+"country": "AU",
+"type": "magazine",
+"cap": null,
+"soft": false,
+"window": "rolling",
+"editor": "",
+"channel": "",
+"url": "twitter.com/GriffithReview",
+"unsolicited": "",
+"tags": [
+"themed",
+"pays"
+],
+"note": "Free to submit · $500",
+"rank": 585,
+"score": 0.0,
+"verify": false
+},
+{
+"name": "Westerly Magazine",
+"country": "AU",
+"type": "magazine",
+"cap": 3500,
+"soft": false,
+"window": "",
+"editor": "",
+"channel": "",
+"url": "twitter.com/WesterlyMag",
+"unsolicited": "",
+"tags": [
+"pays"
+],
+"note": "Reading: February to March, July to August · Free to submit · $300 AUD (print) $180 AUD (online)",
+"rank": 630,
+"score": 0.0,
+"verify": true
+},
+{
+"name": "Going Down Swinging",
+"country": "AU",
+"type": "magazine",
+"cap": 2000,
+"soft": false,
+"window": "",
+"editor": "",
+"channel": "",
+"url": "twitter.com/GDS_journal",
+"unsolicited": "",
+"tags": [
+"pays"
+],
+"note": "Reading: Varies? · Free to submit · $60 (prose under 500 words);  $170 (prose over 500 words)",
+"rank": 632,
+"score": 0.0,
+"verify": true
+},
+{
+"name": "The Lovers Literary Journal",
+"country": "AU",
+"type": "magazine",
+"cap": 1500,
+"soft": false,
+"window": "closed",
+"editor": "",
+"channel": "",
+"url": "twitter.com/theloverslit",
+"unsolicited": false,
+"tags": [
+"pays"
+],
+"note": "Marked on hiatus / may be defunct · Free to submit · $10 AUD + digital copy +discount code for print copy",
+"rank": 652,
+"score": 0.0,
+"verify": true
+},
+{
+"name": "The Suburban Review",
+"country": "AU",
+"type": "magazine",
+"cap": 2500,
+"soft": false,
+"window": "",
+"editor": "",
+"channel": "",
+"url": "twitter.com/suburbanreview1",
+"unsolicited": "",
+"tags": [
+"themed"
+],
+"note": "Reading: Quarterly  (April, July, October, January?) · Free to submit",
+"rank": 793,
+"score": 0.0,
+"verify": true
+},
+{
+"name": "Perspektif Magazine",
+"country": "AU",
+"type": "magazine",
+"cap": 1200,
+"soft": false,
+"window": "",
+"editor": "",
+"channel": "",
+"url": "twitter.com/perspektifmag",
+"unsolicited": "",
+"tags": [
+"themed"
+],
+"note": "Reading: May to June, ??? · Free to submit",
+"rank": 926,
+"score": 0.0,
+"verify": true
+},
+{
+"name": "Backstory Journal",
+"country": "AU",
+"type": "magazine",
+"cap": 2000,
+"soft": false,
+"window": "closed",
+"editor": "",
+"channel": "",
+"url": "twitter.com/bckstoryjournal",
+"unsolicited": false,
+"tags": [
+"themed"
+],
+"note": "Marked on hiatus / may be defunct · Free to submit",
+"rank": 1048,
+"score": 0.0,
+"verify": true
+},
+{
+"name": "The Pine Cone Review",
+"country": "AU",
+"type": "magazine",
+"cap": 600,
+"soft": false,
+"window": "",
+"editor": "",
+"channel": "",
+"url": "twitter.com/PineCone_Review",
+"unsolicited": "",
+"tags": [
+"themed"
+],
+"note": "Reading period varies — check site · Free to submit",
+"rank": 1063,
+"score": 0.0,
+"verify": true
+},
+{
+"name": "Witcraft",
+"country": "AU",
+"type": "magazine",
+"cap": 1000,
+"soft": false,
+"window": "rolling",
+"editor": "",
+"channel": "",
+"url": "",
+"unsolicited": "",
+"tags": [
+"themed"
+],
+"note": "Free to submit",
+"rank": 1126,
+"score": 0.0,
+"verify": false
+}
+]
