@@ -1,0 +1,1864 @@
+[
+ {
+  "name": "The New Yorker",
+  "country": "",
+  "type": "magazine",
+  "cap": null,
+  "soft": false,
+  "window": "",
+  "editor": "",
+  "channel": "",
+  "url": "",
+  "unsolicited": "",
+  "tags": [
+   "tier 1"
+  ],
+  "note": "Rankings: O'Henry 213 · Fox 283.",
+  "rank": 1,
+  "score": 496.0,
+  "verify": true
+ },
+ {
+  "name": "Harper’s Magazine",
+  "country": "",
+  "type": "magazine",
+  "cap": null,
+  "soft": false,
+  "window": "",
+  "editor": "",
+  "channel": "",
+  "url": "",
+  "unsolicited": "",
+  "tags": [
+   "tier 1"
+  ],
+  "note": "Rankings: O'Henry 132 · Fox 50.",
+  "rank": 2,
+  "score": 182.0,
+  "verify": true
+ },
+ {
+  "name": "Ploughshares",
+  "country": "",
+  "type": "magazine",
+  "cap": null,
+  "soft": false,
+  "window": "",
+  "editor": "",
+  "channel": "",
+  "url": "https://www.pshares.org/submit/journal/guidelines",
+  "unsolicited": "",
+  "tags": [
+   "tier 1"
+  ],
+  "note": "Rankings: Krouse 288 · O'Henry 23 · Fox 90 · Garstang 56.5 · response 26 · acceptance 0.81%.",
+  "rank": 3,
+  "score": 169.5,
+  "verify": true
+ },
+ {
+  "name": "The Paris Review",
+  "country": "",
+  "type": "magazine",
+  "cap": null,
+  "soft": false,
+  "window": "",
+  "editor": "",
+  "channel": "",
+  "url": "https://www.theparisreview.org/about/submissions",
+  "unsolicited": "",
+  "tags": [
+   "tier 1"
+  ],
+  "note": "Rankings: Krouse 218 · O'Henry 27 · Fox 43 · Garstang 53 · response 153.",
+  "rank": 4,
+  "score": 123.0,
+  "verify": true
+ },
+ {
+  "name": "The Kenyon Review",
+  "country": "",
+  "type": "magazine",
+  "cap": null,
+  "soft": false,
+  "window": "",
+  "editor": "",
+  "channel": "",
+  "url": "https://kenyonreview.org/submission/",
+  "unsolicited": "",
+  "tags": [
+   "tier 1"
+  ],
+  "note": "Rankings: Krouse 147 · O'Henry 39 · Fox 31 · Garstang 35 · response 96 · acceptance 0.45%.",
+  "rank": 5,
+  "score": 105.0,
+  "verify": true
+ },
+ {
+  "name": "The Southern Review",
+  "country": "",
+  "type": "magazine",
+  "cap": null,
+  "soft": false,
+  "window": "",
+  "editor": "",
+  "channel": "",
+  "url": "https://thesouthernreview.org/submissions",
+  "unsolicited": "",
+  "tags": [
+   "tier 2"
+  ],
+  "note": "Rankings: Krouse 163 · O'Henry 16 · Fox 45 · Garstang 34 · response 157.",
+  "rank": 6,
+  "score": 95.0,
+  "verify": true
+ },
+ {
+  "name": "Zoetrope: All Story",
+  "country": "",
+  "type": "magazine",
+  "cap": null,
+  "soft": false,
+  "window": "",
+  "editor": "",
+  "channel": "",
+  "url": "https://www.all-story.com/about/",
+  "unsolicited": "",
+  "tags": [
+   "tier 2"
+  ],
+  "note": "Rankings: Krouse 232 · O'Henry 15 · Fox 44 · Garstang 35.5 · response 102.",
+  "rank": 7,
+  "score": 94.5,
+  "verify": true
+ },
+ {
+  "name": "One Story",
+  "country": "",
+  "type": "magazine",
+  "cap": null,
+  "soft": false,
+  "window": "",
+  "editor": "",
+  "channel": "",
+  "url": "https://one-story.com/write/submit-a-story/",
+  "unsolicited": "",
+  "tags": [
+   "tier 2"
+  ],
+  "note": "Rankings: Krouse 172 · O'Henry 9 · Fox 32 · Garstang 50.5 · response 51 · acceptance 0.15%.",
+  "rank": 8,
+  "score": 91.5,
+  "verify": true
+ },
+ {
+  "name": "Granta",
+  "country": "",
+  "type": "magazine",
+  "cap": null,
+  "soft": false,
+  "window": "",
+  "editor": "",
+  "channel": "",
+  "url": "https://granta.com/submissions/",
+  "unsolicited": "",
+  "tags": [
+   "tier 2"
+  ],
+  "note": "Rankings: Krouse 207 · O'Henry 9 · Fox 69 · Garstang 10.5 · response 52.",
+  "rank": 9,
+  "score": 88.5,
+  "verify": true
+ },
+ {
+  "name": "Virginia Quarterly Review",
+  "country": "",
+  "type": "magazine",
+  "cap": null,
+  "soft": false,
+  "window": "",
+  "editor": "",
+  "channel": "",
+  "url": "https://www.vqronline.org/about-vqr/submissions",
+  "unsolicited": "",
+  "tags": [
+   "tier 2"
+  ],
+  "note": "Rankings: Krouse 95 · O'Henry 31 · Fox 28 · Garstang 29 · response 311.",
+  "rank": 10,
+  "score": 88.0,
+  "verify": true
+ },
+ {
+  "name": "New England Review",
+  "country": "",
+  "type": "magazine",
+  "cap": null,
+  "soft": false,
+  "window": "",
+  "editor": "",
+  "channel": "",
+  "url": "https://www.nereview.com/ner-submissions/",
+  "unsolicited": "",
+  "tags": [
+   "tier 2"
+  ],
+  "note": "Rankings: Krouse 128 · O'Henry 8 · Fox 50 · Garstang 24 · response 41 · acceptance 0.44%.",
+  "rank": 11,
+  "score": 82.0,
+  "verify": true
+ },
+ {
+  "name": "Conjunctions",
+  "country": "",
+  "type": "magazine",
+  "cap": null,
+  "soft": false,
+  "window": "",
+  "editor": "",
+  "channel": "",
+  "url": "https://www.conjunctions.com/about/submissions/",
+  "unsolicited": "",
+  "tags": [
+   "tier 2"
+  ],
+  "note": "Rankings: Krouse 107 · O'Henry 3 · Fox 21 · Garstang 51 · response 44 · acceptance 0.46%.",
+  "rank": 12,
+  "score": 75.0,
+  "verify": true
+ },
+ {
+  "name": "Epoch",
+  "country": "",
+  "type": "magazine",
+  "cap": null,
+  "soft": false,
+  "window": "",
+  "editor": "",
+  "channel": "",
+  "url": "https://www.epochliterary.com/submit",
+  "unsolicited": "",
+  "tags": [
+   "tier 2"
+  ],
+  "note": "Rankings: O'Henry 40 · Fox 16 · Garstang 14.5.",
+  "rank": 13,
+  "score": 70.5,
+  "verify": true
+ },
+ {
+  "name": "American Short Fiction",
+  "country": "",
+  "type": "magazine",
+  "cap": null,
+  "soft": false,
+  "window": "",
+  "editor": "",
+  "channel": "",
+  "url": "https://americanshortfiction.org/submityourwork/",
+  "unsolicited": "",
+  "tags": [
+   "tier 2"
+  ],
+  "note": "Rankings: Krouse 182 · O'Henry 3 · Fox 43 · Garstang 20.5 · response 83.",
+  "rank": 14,
+  "score": 66.5,
+  "verify": true
+ },
+ {
+  "name": "McSweeney's Quarterly Concern",
+  "country": "",
+  "type": "magazine",
+  "cap": null,
+  "soft": false,
+  "window": "",
+  "editor": "",
+  "channel": "",
+  "url": "https://www.mcsweeneys.net/pages/guidelines-for-quarterly-submissions",
+  "unsolicited": "",
+  "tags": [
+   "tier 2"
+  ],
+  "note": "Rankings: Krouse 103 · O'Henry 5 · Fox 42 · Garstang 13.5 · response 115.",
+  "rank": 15,
+  "score": 60.5,
+  "verify": true
+ },
+ {
+  "name": "Gettysburg Review",
+  "country": "",
+  "type": "magazine",
+  "cap": null,
+  "soft": false,
+  "window": "",
+  "editor": "",
+  "channel": "",
+  "url": "https://www.gettysburgreview.com/submissions/",
+  "unsolicited": "",
+  "tags": [
+   "tier 2"
+  ],
+  "note": "Rankings: Krouse 49 · O'Henry 12 · Fox 9 · Garstang 39 · response 210 · acceptance 0.35%.",
+  "rank": 16,
+  "score": 60.0,
+  "verify": true
+ },
+ {
+  "name": "Ecotone",
+  "country": "",
+  "type": "magazine",
+  "cap": null,
+  "soft": false,
+  "window": "",
+  "editor": "",
+  "channel": "",
+  "url": "https://ecotonemagazine.org/submissions/",
+  "unsolicited": "",
+  "tags": [
+   "tier 2"
+  ],
+  "note": "Rankings: Krouse 103 · O'Henry 7 · Fox 19 · Garstang 33 · response 196.",
+  "rank": 17,
+  "score": 59.0,
+  "verify": true
+ },
+ {
+  "name": "The Iowa Review",
+  "country": "",
+  "type": "magazine",
+  "cap": null,
+  "soft": false,
+  "window": "",
+  "editor": "",
+  "channel": "",
+  "url": "https://iowareview.org/content/writers-guidelines",
+  "unsolicited": "",
+  "tags": [
+   "tier 2"
+  ],
+  "note": "Rankings: Krouse 142 · O'Henry 5 · Fox 28 · Garstang 24.5 · response 98 · acceptance 0.83%.",
+  "rank": 18,
+  "score": 57.5,
+  "verify": true
+ },
+ {
+  "name": "Yale Review",
+  "country": "",
+  "type": "magazine",
+  "cap": null,
+  "soft": false,
+  "window": "",
+  "editor": "",
+  "channel": "",
+  "url": "https://yalereview.org/about/submissions",
+  "unsolicited": "",
+  "tags": [
+   "tier 2"
+  ],
+  "note": "Rankings: Krouse 23 · O'Henry 34 · Fox 20 · Garstang 3 · response 105.",
+  "rank": 19,
+  "score": 57.0,
+  "verify": true
+ },
+ {
+  "name": "Georgia Review",
+  "country": "",
+  "type": "magazine",
+  "cap": null,
+  "soft": false,
+  "window": "",
+  "editor": "",
+  "channel": "",
+  "url": "https://thegeorgiareview.com/submit/",
+  "unsolicited": "",
+  "tags": [
+   "tier 2"
+  ],
+  "note": "Rankings: Krouse 70 · O'Henry 11 · Fox 15 · Garstang 28.5 · response 204.",
+  "rank": 20,
+  "score": 54.5,
+  "verify": true
+ },
+ {
+  "name": "Zyzzyva",
+  "country": "",
+  "type": "magazine",
+  "cap": null,
+  "soft": false,
+  "window": "",
+  "editor": "",
+  "channel": "",
+  "url": "https://www.zyzzyva.org/about/submissions/",
+  "unsolicited": "",
+  "tags": [
+   "tier 2"
+  ],
+  "note": "Rankings: Krouse 227 · O'Henry 3 · Fox 34 · Garstang 16.5 · response 407.",
+  "rank": 21,
+  "score": 53.5,
+  "verify": true
+ },
+ {
+  "name": "Missouri Review",
+  "country": "",
+  "type": "magazine",
+  "cap": null,
+  "soft": false,
+  "window": "",
+  "editor": "",
+  "channel": "",
+  "url": "https://missourireview.com/submissions/submission-guidelines/",
+  "unsolicited": "",
+  "tags": [
+   "tier 2"
+  ],
+  "note": "Rankings: Krouse 72 · O'Henry 4 · Fox 20 · Garstang 29.5 · response 65.",
+  "rank": 22,
+  "score": 53.5,
+  "verify": true
+ },
+ {
+  "name": "Narrative Magazine",
+  "country": "",
+  "type": "magazine",
+  "cap": null,
+  "soft": false,
+  "window": "",
+  "editor": "",
+  "channel": "",
+  "url": "https://www.narrativemagazine.com/submission-guidelines",
+  "unsolicited": "",
+  "tags": [
+   "tier 2"
+  ],
+  "note": "Rankings: Krouse 57 · O'Henry 4 · Fox 24 · Garstang 24.5 · response 38.",
+  "rank": 23,
+  "score": 52.5,
+  "verify": true
+ },
+ {
+  "name": "A Public Space",
+  "country": "",
+  "type": "magazine",
+  "cap": null,
+  "soft": false,
+  "window": "",
+  "editor": "",
+  "channel": "",
+  "url": "https://apublicspacedemo.submittable.com/submit",
+  "unsolicited": "",
+  "tags": [
+   "tier 2"
+  ],
+  "note": "Rankings: Krouse 83 · O'Henry 6 · Fox 17 · Garstang 27.5 · response 107.",
+  "rank": 24,
+  "score": 50.5,
+  "verify": true
+ },
+ {
+  "name": "Sewanee Review",
+  "country": "",
+  "type": "magazine",
+  "cap": null,
+  "soft": false,
+  "window": "",
+  "editor": "",
+  "channel": "",
+  "url": "https://thesewaneereview.com/about/submissions",
+  "unsolicited": "",
+  "tags": [
+   "tier 3"
+  ],
+  "note": "Rankings: Krouse 105 · O'Henry 23 · Fox 13 · Garstang 11.5 · response 46.",
+  "rank": 25,
+  "score": 47.5,
+  "verify": true
+ },
+ {
+  "name": "Agni",
+  "country": "",
+  "type": "magazine",
+  "cap": null,
+  "soft": false,
+  "window": "",
+  "editor": "",
+  "channel": "",
+  "url": "https://agnionline.bu.edu/submit/",
+  "unsolicited": "",
+  "tags": [
+   "tier 3"
+  ],
+  "note": "Rankings: Krouse 50 · O'Henry 3 · Fox 22 · Garstang 20 · response 89 · acceptance 0.20%.",
+  "rank": 26,
+  "score": 45.0,
+  "verify": true
+ },
+ {
+  "name": "McSweeney’s Quarterly",
+  "country": "",
+  "type": "magazine",
+  "cap": null,
+  "soft": false,
+  "window": "",
+  "editor": "",
+  "channel": "",
+  "url": "",
+  "unsolicited": "",
+  "tags": [
+   "tier 3"
+  ],
+  "note": "Rankings: Fox 42.",
+  "rank": 27,
+  "score": 42.0,
+  "verify": true
+ },
+ {
+  "name": "Threepenny Review",
+  "country": "",
+  "type": "magazine",
+  "cap": null,
+  "soft": false,
+  "window": "",
+  "editor": "",
+  "channel": "",
+  "url": "",
+  "unsolicited": "",
+  "tags": [
+   "tier 3"
+  ],
+  "note": "Rankings: Garstang 42.",
+  "rank": 28,
+  "score": 42.0,
+  "verify": true
+ },
+ {
+  "name": "Prairie Schooner",
+  "country": "",
+  "type": "magazine",
+  "cap": null,
+  "soft": false,
+  "window": "",
+  "editor": "",
+  "channel": "",
+  "url": "https://prairieschooner.unl.edu/submit",
+  "unsolicited": "",
+  "tags": [
+   "tier 3"
+  ],
+  "note": "Rankings: O'Henry 10 · Fox 17 · Garstang 9.",
+  "rank": 29,
+  "score": 36.0,
+  "verify": true
+ },
+ {
+  "name": "Alaska Quarterly Review",
+  "country": "",
+  "type": "magazine",
+  "cap": null,
+  "soft": false,
+  "window": "",
+  "editor": "",
+  "channel": "",
+  "url": "https://www.aqreview.org/submissions",
+  "unsolicited": "",
+  "tags": [
+   "tier 3"
+  ],
+  "note": "Rankings: Krouse 94 · O'Henry 7 · Fox 20 · Garstang 6 · response 57 · acceptance 1.49%.",
+  "rank": 30,
+  "score": 33.0,
+  "verify": true
+ },
+ {
+  "name": "Ecotone Magazine",
+  "country": "",
+  "type": "magazine",
+  "cap": null,
+  "soft": false,
+  "window": "",
+  "editor": "",
+  "channel": "",
+  "url": "",
+  "unsolicited": "",
+  "tags": [
+   "tier 3"
+  ],
+  "note": "Rankings: Garstang 33.",
+  "rank": 31,
+  "score": 33.0,
+  "verify": true
+ },
+ {
+  "name": "Noon",
+  "country": "",
+  "type": "magazine",
+  "cap": null,
+  "soft": false,
+  "window": "",
+  "editor": "",
+  "channel": "",
+  "url": "https://noonannual.com/submit/",
+  "unsolicited": "",
+  "tags": [
+   "tier 3"
+  ],
+  "note": "Rankings: Krouse 40 · O'Henry 1 · Fox 0 · Garstang 31.5 · response 18.",
+  "rank": 32,
+  "score": 32.5,
+  "verify": true
+ },
+ {
+  "name": "The Colorado Review",
+  "country": "",
+  "type": "magazine",
+  "cap": null,
+  "soft": false,
+  "window": "",
+  "editor": "",
+  "channel": "",
+  "url": "https://coloradoreview.submittable.com/submit",
+  "unsolicited": "",
+  "tags": [
+   "tier 3"
+  ],
+  "note": "Rankings: Krouse 65 · O'Henry 5 · Fox 11 · Garstang 13 · response 30 · acceptance 1.16%.",
+  "rank": 33,
+  "score": 29.0,
+  "verify": true
+ },
+ {
+  "name": "Bellevue Literary Review",
+  "country": "",
+  "type": "magazine",
+  "cap": null,
+  "soft": false,
+  "window": "",
+  "editor": "",
+  "channel": "",
+  "url": "",
+  "unsolicited": "",
+  "tags": [
+   "tier 3"
+  ],
+  "note": "Rankings: Fox 5 · Garstang 24.",
+  "rank": 34,
+  "score": 29.0,
+  "verify": true
+ },
+ {
+  "name": "The Sun",
+  "country": "",
+  "type": "magazine",
+  "cap": null,
+  "soft": false,
+  "window": "",
+  "editor": "",
+  "channel": "",
+  "url": "https://www.thesunmagazine.org/submit",
+  "unsolicited": "",
+  "tags": [
+   "tier 3"
+  ],
+  "note": "Rankings: Krouse 32 · O'Henry 0 · Fox 6 · Garstang 22.5 · response 39.",
+  "rank": 35,
+  "score": 28.5,
+  "verify": true
+ },
+ {
+  "name": "Boulevard",
+  "country": "",
+  "type": "magazine",
+  "cap": null,
+  "soft": false,
+  "window": "",
+  "editor": "",
+  "channel": "",
+  "url": "https://www.boulevardmagazine.org/guidelines",
+  "unsolicited": "",
+  "tags": [
+   "tier 3"
+  ],
+  "note": "Rankings: Krouse 36 · O'Henry 5 · Fox 9 · Garstang 13.5 · response 67.",
+  "rank": 36,
+  "score": 27.5,
+  "verify": true
+ },
+ {
+  "name": "Five Points",
+  "country": "",
+  "type": "magazine",
+  "cap": null,
+  "soft": false,
+  "window": "",
+  "editor": "",
+  "channel": "",
+  "url": "https://fivepoints.gsu.edu/submit/",
+  "unsolicited": "",
+  "tags": [
+   "tier 3"
+  ],
+  "note": "Rankings: Krouse 23.5 · O'Henry 2 · Fox 16 · Garstang 7.5 · response 44 · acceptance 0.37%.",
+  "rank": 37,
+  "score": 25.5,
+  "verify": true
+ },
+ {
+  "name": "Image",
+  "country": "",
+  "type": "magazine",
+  "cap": null,
+  "soft": false,
+  "window": "",
+  "editor": "",
+  "channel": "",
+  "url": "https://imagejournal.org/journal/submit/",
+  "unsolicited": "",
+  "tags": [
+   "tier 3"
+  ],
+  "note": "Rankings: Krouse 31 · O'Henry 1 · Fox 7 · Garstang 16.5.",
+  "rank": 38,
+  "score": 24.5,
+  "verify": true
+ },
+ {
+  "name": "Narrative",
+  "country": "",
+  "type": "magazine",
+  "cap": null,
+  "soft": false,
+  "window": "",
+  "editor": "",
+  "channel": "",
+  "url": "",
+  "unsolicited": "",
+  "tags": [
+   "tier 3"
+  ],
+  "note": "Rankings: Garstang 24.5.",
+  "rank": 39,
+  "score": 24.5,
+  "verify": true
+ },
+ {
+  "name": "Subtropics",
+  "country": "",
+  "type": "magazine",
+  "cap": null,
+  "soft": false,
+  "window": "",
+  "editor": "",
+  "channel": "",
+  "url": "http://subtropics.english.ufl.edu/index.php/submissions/",
+  "unsolicited": "",
+  "tags": [
+   "tier 3"
+  ],
+  "note": "Rankings: Krouse 56 · O'Henry 6 · Fox 18 · Garstang 0 · response 14.",
+  "rank": 40,
+  "score": 24.0,
+  "verify": true
+ },
+ {
+  "name": "Witness",
+  "country": "",
+  "type": "magazine",
+  "cap": null,
+  "soft": false,
+  "window": "",
+  "editor": "",
+  "channel": "",
+  "url": "https://witness.blackmountaininstitute.org/submit/",
+  "unsolicited": "",
+  "tags": [
+   "tier 3"
+  ],
+  "note": "Rankings: Krouse 55.5 · O'Henry 6 · Fox 10 · Garstang 8 · response 46 · acceptance 4.35%.",
+  "rank": 41,
+  "score": 24.0,
+  "verify": true
+ },
+ {
+  "name": "Cincinnati Review",
+  "country": "",
+  "type": "magazine",
+  "cap": null,
+  "soft": false,
+  "window": "",
+  "editor": "",
+  "channel": "",
+  "url": "https://www.cincinnatireview.com/submission-guidelines-2021/",
+  "unsolicited": "",
+  "tags": [
+   "tier 3"
+  ],
+  "note": "Rankings: Krouse 33 · O'Henry 1 · Fox 12 · Garstang 7.5 · response 165 · acceptance 0.30%.",
+  "rank": 42,
+  "score": 20.5,
+  "verify": true
+ },
+ {
+  "name": "Idaho Review",
+  "country": "",
+  "type": "magazine",
+  "cap": null,
+  "soft": false,
+  "window": "",
+  "editor": "",
+  "channel": "",
+  "url": "https://www.idahoreview.org/submit",
+  "unsolicited": "",
+  "tags": [
+   "tier 3"
+  ],
+  "note": "Rankings: Krouse 17.5 · O'Henry 2 · Fox 10 · Garstang 8.5 · response 81 · acceptance 0.48%.",
+  "rank": 43,
+  "score": 20.5,
+  "verify": true
+ },
+ {
+  "name": "Harvard Review",
+  "country": "",
+  "type": "magazine",
+  "cap": null,
+  "soft": false,
+  "window": "",
+  "editor": "",
+  "channel": "",
+  "url": "https://www.harvardreview.org/submit/",
+  "unsolicited": "",
+  "tags": [
+   "tier 4"
+  ],
+  "note": "Rankings: Krouse 29.5 · O'Henry 1 · Fox 11 · Garstang 7.5 · response 280.",
+  "rank": 44,
+  "score": 19.5,
+  "verify": true
+ },
+ {
+  "name": "Crazyhorse",
+  "country": "",
+  "type": "magazine",
+  "cap": null,
+  "soft": false,
+  "window": "",
+  "editor": "",
+  "channel": "",
+  "url": "https://swamp-pink.cofc.edu/submit/",
+  "unsolicited": "",
+  "tags": [
+   "tier 4"
+  ],
+  "note": "Rankings: Krouse 45.5 · O'Henry 0 · Fox 8 · Garstang 11 · response 104 · acceptance 0.53%.",
+  "rank": 45,
+  "score": 19.0,
+  "verify": true
+ },
+ {
+  "name": "The Michigan Quarterly Review",
+  "country": "",
+  "type": "magazine",
+  "cap": null,
+  "soft": false,
+  "window": "",
+  "editor": "",
+  "channel": "",
+  "url": "https://sites.lsa.umich.edu/mqr/submit/",
+  "unsolicited": "",
+  "tags": [
+   "tier 4"
+  ],
+  "note": "Rankings: Krouse 27.5 · O'Henry 2 · Fox 12 · Garstang 5 · response 141.",
+  "rank": 46,
+  "score": 19.0,
+  "verify": true
+ },
+ {
+  "name": "The Massachusetts Review",
+  "country": "",
+  "type": "magazine",
+  "cap": null,
+  "soft": false,
+  "window": "",
+  "editor": "",
+  "channel": "",
+  "url": "https://www.massreview.org/submission-guidelines",
+  "unsolicited": "",
+  "tags": [
+   "tier 4"
+  ],
+  "note": "Rankings: Krouse 22.5 · O'Henry 13 · Fox 4 · Garstang 1.5 · response 131 · acceptance 1.79%.",
+  "rank": 47,
+  "score": 18.5,
+  "verify": true
+ },
+ {
+  "name": "Santa Monica Review",
+  "country": "",
+  "type": "magazine",
+  "cap": null,
+  "soft": false,
+  "window": "",
+  "editor": "",
+  "channel": "",
+  "url": "https://www.smc.edu/sm-review/submission-guidelines.html",
+  "unsolicited": "",
+  "tags": [
+   "tier 4"
+  ],
+  "note": "Rankings: Krouse 17 · O'Henry 1 · Fox 11 · Garstang 6.5 · response 64 · acceptance 7.41%.",
+  "rank": 48,
+  "score": 18.5,
+  "verify": true
+ },
+ {
+  "name": "TriQuarterly",
+  "country": "",
+  "type": "magazine",
+  "cap": null,
+  "soft": false,
+  "window": "",
+  "editor": "",
+  "channel": "",
+  "url": "https://www.triquarterly.org/submissions",
+  "unsolicited": "",
+  "tags": [
+   "tier 4"
+  ],
+  "note": "Rankings: Krouse 5.5 · O'Henry 12 · Fox 5 · Garstang 1 · response 99 · acceptance 1.53%.",
+  "rank": 49,
+  "score": 18.0,
+  "verify": true
+ },
+ {
+  "name": "New Letters",
+  "country": "",
+  "type": "magazine",
+  "cap": null,
+  "soft": false,
+  "window": "",
+  "editor": "",
+  "channel": "",
+  "url": "https://www.newletters.org/submissions/",
+  "unsolicited": "",
+  "tags": [
+   "tier 4"
+  ],
+  "note": "Rankings: Krouse 10 · O'Henry 4 · Fox 2 · Garstang 11 · response 78 · acceptance 1.63%.",
+  "rank": 50,
+  "score": 17.0,
+  "verify": true
+ },
+ {
+  "name": "West Branch",
+  "country": "",
+  "type": "magazine",
+  "cap": null,
+  "soft": false,
+  "window": "",
+  "editor": "",
+  "channel": "",
+  "url": "https://westbranchsubmissions.bucknell.edu/",
+  "unsolicited": "",
+  "tags": [
+   "tier 4"
+  ],
+  "note": "Rankings: Krouse 23 · O'Henry 0 · Fox 10 · Garstang 5.5 · response 16 · acceptance 1.18%.",
+  "rank": 51,
+  "score": 15.5,
+  "verify": true
+ },
+ {
+  "name": "StoryQuarterly",
+  "country": "",
+  "type": "magazine",
+  "cap": null,
+  "soft": false,
+  "window": "",
+  "editor": "",
+  "channel": "",
+  "url": "https://storyquarterly.camden.rutgers.edu/submissions/",
+  "unsolicited": "",
+  "tags": [
+   "tier 4"
+  ],
+  "note": "Rankings: Krouse 22 · O'Henry 1 · Fox 12 · Garstang 2 · response 270.",
+  "rank": 52,
+  "score": 15.0,
+  "verify": true
+ },
+ {
+  "name": "Pleiades",
+  "country": "",
+  "type": "magazine",
+  "cap": null,
+  "soft": false,
+  "window": "",
+  "editor": "",
+  "channel": "",
+  "url": "https://pleiadesmag.com/submit/",
+  "unsolicited": "",
+  "tags": [
+   "tier 4"
+  ],
+  "note": "Rankings: Krouse 18.5 · O'Henry 0 · Fox 1 · Garstang 14 · response 63 · acceptance 1.30%.",
+  "rank": 53,
+  "score": 15.0,
+  "verify": true
+ },
+ {
+  "name": "Mississippi Review",
+  "country": "",
+  "type": "magazine",
+  "cap": null,
+  "soft": false,
+  "window": "",
+  "editor": "",
+  "channel": "",
+  "url": "",
+  "unsolicited": "",
+  "tags": [
+   "tier 4"
+  ],
+  "note": "Rankings: Fox 8 · Garstang 6.5.",
+  "rank": 54,
+  "score": 14.5,
+  "verify": true
+ },
+ {
+  "name": "Fiction",
+  "country": "",
+  "type": "magazine",
+  "cap": null,
+  "soft": false,
+  "window": "",
+  "editor": "",
+  "channel": "",
+  "url": "",
+  "unsolicited": "",
+  "tags": [
+   "tier 4"
+  ],
+  "note": "Rankings: O'Henry 8 · Fox 5 · Garstang 1.",
+  "rank": 55,
+  "score": 14.0,
+  "verify": true
+ },
+ {
+  "name": "McSweeney’s",
+  "country": "",
+  "type": "magazine",
+  "cap": null,
+  "soft": false,
+  "window": "",
+  "editor": "",
+  "channel": "",
+  "url": "",
+  "unsolicited": "",
+  "tags": [
+   "tier 4"
+  ],
+  "note": "Rankings: Garstang 13.5.",
+  "rank": 56,
+  "score": 13.5,
+  "verify": true
+ },
+ {
+  "name": "Gulf Coast",
+  "country": "",
+  "type": "magazine",
+  "cap": null,
+  "soft": false,
+  "window": "",
+  "editor": "",
+  "channel": "",
+  "url": "https://gulfcoastmag.org/submit/",
+  "unsolicited": "",
+  "tags": [
+   "tier 4"
+  ],
+  "note": "Rankings: Krouse 41 · O'Henry 0 · Fox 10 · Garstang 2.5 · response 102 · acceptance 0.53%.",
+  "rank": 57,
+  "score": 12.5,
+  "verify": true
+ },
+ {
+  "name": "Bomb",
+  "country": "",
+  "type": "magazine",
+  "cap": null,
+  "soft": false,
+  "window": "",
+  "editor": "",
+  "channel": "",
+  "url": "https://bombmagazine.submittable.com/submit",
+  "unsolicited": "",
+  "tags": [
+   "tier 4"
+  ],
+  "note": "Rankings: Krouse 54.5 · O'Henry 1 · Fox 6 · Garstang 5.",
+  "rank": 58,
+  "score": 12.0,
+  "verify": true
+ },
+ {
+  "name": "Electric Literature",
+  "country": "",
+  "type": "magazine",
+  "cap": null,
+  "soft": false,
+  "window": "",
+  "editor": "",
+  "channel": "",
+  "url": "https://electricliterature.com/about/submit/",
+  "unsolicited": "",
+  "tags": [
+   "tier 4"
+  ],
+  "note": "Rankings: Krouse 24 · O'Henry 1 · Fox 2 · Garstang 8.",
+  "rank": 59,
+  "score": 11.0,
+  "verify": true
+ },
+ {
+  "name": "Fifth Wednesday Journal",
+  "country": "",
+  "type": "magazine",
+  "cap": null,
+  "soft": false,
+  "window": "",
+  "editor": "",
+  "channel": "",
+  "url": "",
+  "unsolicited": "",
+  "tags": [
+   "tier 4"
+  ],
+  "note": "Rankings: O'Henry 1 · Fox 9.",
+  "rank": 60,
+  "score": 10.0,
+  "verify": true
+ },
+ {
+  "name": "Black Warrior",
+  "country": "",
+  "type": "magazine",
+  "cap": null,
+  "soft": false,
+  "window": "",
+  "editor": "",
+  "channel": "",
+  "url": "https://bwr.ua.edu/submit/guidelines/",
+  "unsolicited": "",
+  "tags": [
+   "tier 4"
+  ],
+  "note": "Rankings: Krouse 2 · O'Henry 0 · Fox 7 · Garstang 2 · response 139.",
+  "rank": 61,
+  "score": 9.0,
+  "verify": true
+ },
+ {
+  "name": "Black Warrior Review",
+  "country": "",
+  "type": "magazine",
+  "cap": null,
+  "soft": false,
+  "window": "",
+  "editor": "",
+  "channel": "",
+  "url": "",
+  "unsolicited": "",
+  "tags": [
+   "tier 4"
+  ],
+  "note": "Rankings: Fox 7 · Garstang 2.",
+  "rank": 62,
+  "score": 9.0,
+  "verify": true
+ },
+ {
+  "name": "Cimarron Review",
+  "country": "",
+  "type": "magazine",
+  "cap": null,
+  "soft": false,
+  "window": "",
+  "editor": "",
+  "channel": "",
+  "url": "https://cimarronreview.com/submit/",
+  "unsolicited": "",
+  "tags": [
+   "tier 4"
+  ],
+  "note": "Rankings: Krouse 57.5 · O'Henry 3 · Fox 3 · Garstang 2.5 · response 199 · acceptance 0.83%.",
+  "rank": 63,
+  "score": 8.5,
+  "verify": true
+ },
+ {
+  "name": "Chicago Quarterly",
+  "country": "",
+  "type": "magazine",
+  "cap": null,
+  "soft": false,
+  "window": "",
+  "editor": "",
+  "channel": "",
+  "url": "",
+  "unsolicited": "",
+  "tags": [
+   "tier 4"
+  ],
+  "note": "Rankings: Garstang 8.5.",
+  "rank": 64,
+  "score": 8.5,
+  "verify": true
+ },
+ {
+  "name": "Indiana Review",
+  "country": "",
+  "type": "magazine",
+  "cap": null,
+  "soft": false,
+  "window": "",
+  "editor": "",
+  "channel": "",
+  "url": "https://indianareview.org/submit/",
+  "unsolicited": "",
+  "tags": [
+   "tier 4"
+  ],
+  "note": "Rankings: Krouse 29.5 · O'Henry 5 · Fox 1 · Garstang 1.5 · response 111 · acceptance 0.90%.",
+  "rank": 65,
+  "score": 7.5,
+  "verify": true
+ },
+ {
+  "name": "Salamander",
+  "country": "",
+  "type": "magazine",
+  "cap": null,
+  "soft": false,
+  "window": "",
+  "editor": "",
+  "channel": "",
+  "url": "https://salamandermag.org/how-to-submit/",
+  "unsolicited": "",
+  "tags": [
+   "tier 4"
+  ],
+  "note": "Rankings: Krouse 39 · O'Henry 3 · Fox 4 · Garstang 0 · response 70 · acceptance 0.74%.",
+  "rank": 66,
+  "score": 7.0,
+  "verify": true
+ },
+ {
+  "name": "Hobart",
+  "country": "",
+  "type": "magazine",
+  "cap": null,
+  "soft": false,
+  "window": "",
+  "editor": "",
+  "channel": "",
+  "url": "https://www.hobartpulp.com/submit",
+  "unsolicited": "",
+  "tags": [
+   "tier 4"
+  ],
+  "note": "Rankings: Krouse 3 · O'Henry 1 · Fox 6 · Garstang 0 · response 47 · acceptance 5.93%.",
+  "rank": 67,
+  "score": 7.0,
+  "verify": true
+ },
+ {
+  "name": "Copper Nickel",
+  "country": "",
+  "type": "magazine",
+  "cap": null,
+  "soft": false,
+  "window": "",
+  "editor": "",
+  "channel": "",
+  "url": "https://copper-nickel.org/submit/",
+  "unsolicited": "",
+  "tags": [
+   "tier 4"
+  ],
+  "note": "Rankings: Krouse 33 · O'Henry 0 · Fox 3 · Garstang 3.5 · response 36 · acceptance 0.67%.",
+  "rank": 68,
+  "score": 6.5,
+  "verify": true
+ },
+ {
+  "name": "Epiphany",
+  "country": "",
+  "type": "magazine",
+  "cap": null,
+  "soft": false,
+  "window": "",
+  "editor": "",
+  "channel": "",
+  "url": "https://epiphanymagazine.submittable.com/submit",
+  "unsolicited": "",
+  "tags": [
+   "tier 4"
+  ],
+  "note": "Rankings: Krouse 24.5 · O'Henry 0 · Fox 1 · Garstang 4.5 · acceptance 1.46%.",
+  "rank": 69,
+  "score": 5.5,
+  "verify": true
+ },
+ {
+  "name": "Hopkins",
+  "country": "",
+  "type": "magazine",
+  "cap": null,
+  "soft": false,
+  "window": "",
+  "editor": "",
+  "channel": "",
+  "url": "https://thehopkinsreview.submittable.com/submit",
+  "unsolicited": "",
+  "tags": [
+   "tier 4"
+  ],
+  "note": "Rankings: Krouse 22.5 · O'Henry 0 · Fox 2 · Garstang 3 · response 303.",
+  "rank": 70,
+  "score": 5.0,
+  "verify": true
+ },
+ {
+  "name": "Bennington Review",
+  "country": "",
+  "type": "magazine",
+  "cap": null,
+  "soft": false,
+  "window": "",
+  "editor": "",
+  "channel": "",
+  "url": "https://www.benningtonreview.org/submit",
+  "unsolicited": "",
+  "tags": [
+   "tier 4"
+  ],
+  "note": "Rankings: Krouse 13 · O'Henry 1 · Fox 1 · Garstang 3 · response 120.",
+  "rank": 71,
+  "score": 5.0,
+  "verify": true
+ },
+ {
+  "name": "Meridian",
+  "country": "",
+  "type": "magazine",
+  "cap": null,
+  "soft": false,
+  "window": "",
+  "editor": "",
+  "channel": "",
+  "url": "https://readmeridian.org/about/",
+  "unsolicited": "",
+  "tags": [
+   "tier 4"
+  ],
+  "note": "Rankings: Krouse 6 · O'Henry 0 · Fox 4 · Garstang 1 · response 35 · acceptance 2.50%.",
+  "rank": 72,
+  "score": 5.0,
+  "verify": true
+ },
+ {
+  "name": "Callaloo",
+  "country": "",
+  "type": "magazine",
+  "cap": null,
+  "soft": false,
+  "window": "",
+  "editor": "",
+  "channel": "",
+  "url": "",
+  "unsolicited": "",
+  "tags": [
+   "tier 4"
+  ],
+  "note": "Rankings: O'Henry 1 · Fox 4.",
+  "rank": 73,
+  "score": 5.0,
+  "verify": true
+ },
+ {
+  "name": "Chicago Quarterly Review",
+  "country": "",
+  "type": "magazine",
+  "cap": null,
+  "soft": false,
+  "window": "",
+  "editor": "",
+  "channel": "",
+  "url": "",
+  "unsolicited": "",
+  "tags": [
+   "tier 4"
+  ],
+  "note": "Rankings: Fox 5.",
+  "rank": 74,
+  "score": 5.0,
+  "verify": true
+ },
+ {
+  "name": "Hopkins Review",
+  "country": "",
+  "type": "magazine",
+  "cap": null,
+  "soft": false,
+  "window": "",
+  "editor": "",
+  "channel": "",
+  "url": "",
+  "unsolicited": "",
+  "tags": [
+   "tier 4"
+  ],
+  "note": "Rankings: Fox 2 · Garstang 3.",
+  "rank": 75,
+  "score": 5.0,
+  "verify": true
+ },
+ {
+  "name": "The Colorado Quarterly",
+  "country": "",
+  "type": "magazine",
+  "cap": null,
+  "soft": false,
+  "window": "",
+  "editor": "",
+  "channel": "",
+  "url": "",
+  "unsolicited": "",
+  "tags": [
+   "tier 4"
+  ],
+  "note": "Rankings: O'Henry 5.",
+  "rank": 76,
+  "score": 5.0,
+  "verify": true
+ },
+ {
+  "name": "Fiction International",
+  "country": "",
+  "type": "magazine",
+  "cap": null,
+  "soft": false,
+  "window": "",
+  "editor": "",
+  "channel": "",
+  "url": "https://fictioninternational.sdsu.edu/wordpress/submit/",
+  "unsolicited": "",
+  "tags": [
+   "tier 5"
+  ],
+  "note": "Rankings: Krouse 6.5 · O'Henry 2 · Fox 1 · Garstang 1.5 · response 46 · acceptance 12.12%.",
+  "rank": 77,
+  "score": 4.5,
+  "verify": true
+ },
+ {
+  "name": "Third Coast",
+  "country": "",
+  "type": "magazine",
+  "cap": null,
+  "soft": false,
+  "window": "",
+  "editor": "",
+  "channel": "",
+  "url": "",
+  "unsolicited": "",
+  "tags": [
+   "tier 5"
+  ],
+  "note": "Rankings: O'Henry 1 · Garstang 3.5.",
+  "rank": 78,
+  "score": 4.5,
+  "verify": true
+ },
+ {
+  "name": "Grain Magazine",
+  "country": "",
+  "type": "magazine",
+  "cap": null,
+  "soft": false,
+  "window": "",
+  "editor": "",
+  "channel": "",
+  "url": "https://grainmagazine.ca/submit",
+  "unsolicited": "",
+  "tags": [
+   "tier 5"
+  ],
+  "note": "Rankings: Krouse 15 · O'Henry 1 · Fox 3 · Garstang 0 · response 91.",
+  "rank": 79,
+  "score": 4.0,
+  "verify": true
+ },
+ {
+  "name": "Chicago Review",
+  "country": "",
+  "type": "magazine",
+  "cap": null,
+  "soft": false,
+  "window": "",
+  "editor": "",
+  "channel": "",
+  "url": "",
+  "unsolicited": "",
+  "tags": [
+   "tier 5"
+  ],
+  "note": "Rankings: O'Henry 3 · Garstang 1.",
+  "rank": 80,
+  "score": 4.0,
+  "verify": true
+ },
+ {
+  "name": "Grain",
+  "country": "",
+  "type": "magazine",
+  "cap": null,
+  "soft": false,
+  "window": "",
+  "editor": "",
+  "channel": "",
+  "url": "",
+  "unsolicited": "",
+  "tags": [
+   "tier 5"
+  ],
+  "note": "Rankings: Fox 3.",
+  "rank": 81,
+  "score": 3.0,
+  "verify": true
+ },
+ {
+  "name": "The Common",
+  "country": "",
+  "type": "magazine",
+  "cap": null,
+  "soft": false,
+  "window": "",
+  "editor": "",
+  "channel": "",
+  "url": "",
+  "unsolicited": "",
+  "tags": [
+   "tier 5"
+  ],
+  "note": "Rankings: Fox 3.",
+  "rank": 82,
+  "score": 3.0,
+  "verify": true
+ },
+ {
+  "name": "Blackbird",
+  "country": "",
+  "type": "magazine",
+  "cap": null,
+  "soft": false,
+  "window": "",
+  "editor": "",
+  "channel": "",
+  "url": "https://blackbird.vcu.edu/v5n1/submissions.htm",
+  "unsolicited": "",
+  "tags": [
+   "tier 5"
+  ],
+  "note": "Rankings: Krouse 2 · O'Henry 0 · Fox 1 · Garstang 1.5 · response 244.",
+  "rank": 83,
+  "score": 2.5,
+  "verify": true
+ },
+ {
+  "name": "New Orleans Review",
+  "country": "",
+  "type": "magazine",
+  "cap": null,
+  "soft": false,
+  "window": "",
+  "editor": "",
+  "channel": "",
+  "url": "",
+  "unsolicited": "",
+  "tags": [
+   "tier 5"
+  ],
+  "note": "Rankings: O'Henry 2.",
+  "rank": 84,
+  "score": 2.0,
+  "verify": true
+ },
+ {
+  "name": "Tampa Review",
+  "country": "",
+  "type": "magazine",
+  "cap": null,
+  "soft": false,
+  "window": "",
+  "editor": "",
+  "channel": "",
+  "url": "",
+  "unsolicited": "",
+  "tags": [
+   "tier 5"
+  ],
+  "note": "Rankings: Fox 2.",
+  "rank": 85,
+  "score": 2.0,
+  "verify": true
+ },
+ {
+  "name": "Fifth Wednesday ©",
+  "country": "",
+  "type": "magazine",
+  "cap": null,
+  "soft": false,
+  "window": "",
+  "editor": "",
+  "channel": "",
+  "url": "",
+  "unsolicited": "",
+  "tags": [
+   "tier 5"
+  ],
+  "note": "Rankings: Garstang 1.5.",
+  "rank": 86,
+  "score": 1.5,
+  "verify": true
+ },
+ {
+  "name": "Masters Review",
+  "country": "",
+  "type": "magazine",
+  "cap": null,
+  "soft": false,
+  "window": "",
+  "editor": "",
+  "channel": "",
+  "url": "https://mastersreview.com/submissions/",
+  "unsolicited": "",
+  "tags": [
+   "tier 5"
+  ],
+  "note": "Rankings: Krouse 5 · O'Henry 0 · Fox 1 · Garstang 0 · response 60 · acceptance 1.69%.",
+  "rank": 87,
+  "score": 1.0,
+  "verify": true
+ },
+ {
+  "name": "Bookman",
+  "country": "",
+  "type": "magazine",
+  "cap": null,
+  "soft": false,
+  "window": "",
+  "editor": "",
+  "channel": "",
+  "url": "",
+  "unsolicited": "",
+  "tags": [
+   "tier 5"
+  ],
+  "note": "Rankings: O'Henry 1.",
+  "rank": 88,
+  "score": 1.0,
+  "verify": true
+ },
+ {
+  "name": "Fiction Network",
+  "country": "",
+  "type": "magazine",
+  "cap": null,
+  "soft": false,
+  "window": "",
+  "editor": "",
+  "channel": "",
+  "url": "",
+  "unsolicited": "",
+  "tags": [
+   "tier 5"
+  ],
+  "note": "Rankings: O'Henry 1.",
+  "rank": 89,
+  "score": 1.0,
+  "verify": true
+ },
+ {
+  "name": "Freeman's",
+  "country": "",
+  "type": "magazine",
+  "cap": null,
+  "soft": false,
+  "window": "",
+  "editor": "",
+  "channel": "",
+  "url": "",
+  "unsolicited": "",
+  "tags": [
+   "tier 5"
+  ],
+  "note": "Rankings: O'Henry 1.",
+  "rank": 90,
+  "score": 1.0,
+  "verify": true
+ },
+ {
+  "name": "Hobart:another literary journal",
+  "country": "",
+  "type": "magazine",
+  "cap": null,
+  "soft": false,
+  "window": "",
+  "editor": "",
+  "channel": "",
+  "url": "",
+  "unsolicited": "",
+  "tags": [
+   "tier 5"
+  ],
+  "note": "Rankings: O'Henry 1.",
+  "rank": 91,
+  "score": 1.0,
+  "verify": true
+ },
+ {
+  "name": "Sycamore Review",
+  "country": "",
+  "type": "magazine",
+  "cap": null,
+  "soft": false,
+  "window": "",
+  "editor": "",
+  "channel": "",
+  "url": "",
+  "unsolicited": "",
+  "tags": [
+   "tier 5"
+  ],
+  "note": "Rankings: Fox 1.",
+  "rank": 92,
+  "score": 1.0,
+  "verify": true
+ },
+ {
+  "name": "Territory",
+  "country": "",
+  "type": "magazine",
+  "cap": null,
+  "soft": false,
+  "window": "",
+  "editor": "",
+  "channel": "",
+  "url": "",
+  "unsolicited": "",
+  "tags": [
+   "tier 5"
+  ],
+  "note": "Rankings: Fox 1.",
+  "rank": 93,
+  "score": 1.0,
+  "verify": true
+ },
+ {
+  "name": "Transition",
+  "country": "",
+  "type": "magazine",
+  "cap": null,
+  "soft": false,
+  "window": "",
+  "editor": "",
+  "channel": "",
+  "url": "",
+  "unsolicited": "",
+  "tags": [
+   "tier 5"
+  ],
+  "note": "Rankings: Fox 1.",
+  "rank": 94,
+  "score": 1.0,
+  "verify": true
+ },
+ {
+  "name": "Western Humanities Review",
+  "country": "",
+  "type": "magazine",
+  "cap": null,
+  "soft": false,
+  "window": "",
+  "editor": "",
+  "channel": "",
+  "url": "",
+  "unsolicited": "",
+  "tags": [
+   "tier 5"
+  ],
+  "note": "Rankings: Fox 1.",
+  "rank": 95,
+  "score": 1.0,
+  "verify": true
+ },
+ {
+  "name": "Wired",
+  "country": "",
+  "type": "magazine",
+  "cap": null,
+  "soft": false,
+  "window": "",
+  "editor": "",
+  "channel": "",
+  "url": "",
+  "unsolicited": "",
+  "tags": [
+   "tier 5"
+  ],
+  "note": "Rankings: Fox 1.",
+  "rank": 96,
+  "score": 1.0,
+  "verify": true
+ },
+ {
+  "name": "Fiction (fictioninc.com)",
+  "country": "",
+  "type": "magazine",
+  "cap": null,
+  "soft": false,
+  "window": "",
+  "editor": "",
+  "channel": "",
+  "url": "https://www.fictioninc.com/submit",
+  "unsolicited": "",
+  "tags": [
+   "unranked"
+  ],
+  "note": "Rankings: Krouse 13.5 · response 73.",
+  "rank": 97,
+  "score": 0,
+  "verify": true
+ },
+ {
+  "name": "American Literary Review",
+  "country": "",
+  "type": "magazine",
+  "cap": null,
+  "soft": false,
+  "window": "",
+  "editor": "",
+  "channel": "",
+  "url": "https://americanliteraryreview.com/submit/",
+  "unsolicited": "",
+  "tags": [
+   "unranked"
+  ],
+  "note": "Rankings: Krouse 0 · O'Henry 0 · Fox 0 · Garstang 0 · response 35.",
+  "rank": 98,
+  "score": 0,
+  "verify": true
+ }
+]
