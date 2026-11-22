@@ -301,7 +301,7 @@ header{position:sticky;top:0;z-index:40;background:var(--panel);
     <div class="fld"><label>Reading window</label>
       <select id="m_win">
         <option value="rolling">Rolling / year-round</option>
-        <option value="range">Month range (set below)</option>
+        <option value="range">Specific months (opens / closes below)</option>
         <option value="closed">Currently closed</option>
         <option value="">Unknown</option>
       </select>
@@ -311,7 +311,7 @@ header{position:sticky;top:0;z-index:40;background:var(--panel);
         <select id="m_winopen"><option value="1">Jan</option><option value="2">Feb</option><option value="3">Mar</option><option value="4">Apr</option><option value="5">May</option><option value="6">Jun</option><option value="7">Jul</option><option value="8">Aug</option><option value="9">Sep</option><option value="10">Oct</option><option value="11">Nov</option><option value="12">Dec</option></select>
       </div>
       <div class="fld"><label>Closes (month)</label>
-        <select id="m_winclose"><option value="1">Jan</option><option value="2">Feb</option><option value="3">Mar</option><option value="4">Apr</option><option value="5">May</option><option value="6">Jun</option><option value="7">Jul</option><option value="8">Aug</option><option value="9">Sep</option><option value="10">Oct</option><option value="11">Nov</option><option value="12">Dec</option></select>
+        <select id="m_winclose"><option value="">Unknown</option><option value="1">Jan</option><option value="2">Feb</option><option value="3">Mar</option><option value="4">Apr</option><option value="5">May</option><option value="6">Jun</option><option value="7">Jul</option><option value="8">Aug</option><option value="9">Sep</option><option value="10">Oct</option><option value="11">Nov</option><option value="12">Dec</option></select>
       </div>
     </div>
     <div class="fld"><label>Editor / contact</label><input id="m_editor" placeholder="Name or 'Editorial team'" autocomplete="off"></div>
@@ -519,9 +519,9 @@ var SEED = [
    note:'Poetry/fiction/non-fiction incl. translation; UK arm of HetMoet. VERIFY subs - likely curated.', verify:true},
   {id:'tenement', name:'Tenement Press', country:'UK', type:'press', cap:null, soft:false,
    editor:'Dominic J. Jaeckle', channel:'See website; cousin to Hotel magazine',
-   url:'tenementpress.com', unsolicited:'', window:'',
+   url:'tenementpress.com', unsolicited:'', window:{open:4,close:null},
    tags:['experimental','esoteric','interdisciplinary'],
-   note:'Experimental/esoteric literatures; linked to Hotel magazine (worth a look for prose). VERIFY subs.', verify:true},
+   note:'Experimental/esoteric literatures; linked to Hotel magazine (worth a look for prose). Reopens in April per their website; close month not published. VERIFY subs.', verify:true},
   {id:'prototype', name:'Prototype', country:'UK', type:'press', cap:null, soft:false,
    editor:'Jess Chandler', channel:'See website (annual window)',
    url:'prototypepublishing.co.uk', unsolicited:'', window:'',
@@ -587,6 +587,12 @@ function windowStatus(m){
   if(!w || typeof w!=='object') return {state:'assumed', label:'Likely open'};
   var now=new Date().getMonth()+1; // 1-12
   var o=w.open, c=w.close;
+  // open month known but close month not published (e.g. 'reopens in April')
+  if(c==null || c===''){
+    if(now===o) return {state:'open', label:'Open in '+MONTHS[o]+' (close unknown)'};
+    if(now+1===o || (now===12 && o===1)) return {state:'soon', label:'Opens '+MONTHS[o]};
+    return {state:'closed', label:'Opens '+MONTHS[o]};
+  }
   var open;
   if(o<=c){ open = (now>=o && now<=c); }
   else { open = (now>=o || now<=c); } // wraps year end
@@ -991,7 +997,7 @@ function editMag(id){
   var w=m.window;
   if(w==='rolling'){el('m_win').value='rolling';el('m_winrange').style.display='none';}
   else if(w==='closed'){el('m_win').value='closed';el('m_winrange').style.display='none';}
-  else if(w&&typeof w==='object'){el('m_win').value='range';el('m_winrange').style.display='flex';el('m_winopen').value=w.open;el('m_winclose').value=w.close;}
+  else if(w&&typeof w==='object'){el('m_win').value='range';el('m_winrange').style.display='flex';el('m_winopen').value=w.open;el('m_winclose').value=(w.close==null?'':w.close);}
   else {el('m_win').value='';el('m_winrange').style.display='none';}
   el('magDelBtn').style.display='block';
   el('magModal').classList.add('on');
@@ -1001,7 +1007,7 @@ function saveMag(){
   var id=el('m_id').value|| ('u'+uid());
   var capRaw=el('m_cap').value.trim();
   var winSel=el('m_win').value, win;
-  if(winSel==='range') win={open:+el('m_winopen').value, close:+el('m_winclose').value};
+  if(winSel==='range'){ var cv=el('m_winclose').value; win={open:+el('m_winopen').value, close:(cv===''?null:+cv)}; }
   else if(winSel==='rolling') win='rolling';
   else if(winSel==='closed') win='closed';
   else win='';
